@@ -1,4 +1,4 @@
-# SERRC (Scientific Entity Recognition and Relation Classification) dataset
+# Scientific Entity Recognition and Relation Classification dataset (SERRC)
 
 Contains abstracts of 1,680 scientific papers on information technology in Russian:
 * 1,600 unlabeled
