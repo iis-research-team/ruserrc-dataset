@@ -5,10 +5,16 @@ Contains abstracts of 1,680 scientific papers on information technology in Russi
 * 80 manually labeled.
 
 Entity annotation was performed in BIO format. Entities are terms represented by nouns or noun phrases. 
-The following six types were used to annotate semantic relations: 
-* `USAGE`
-* `PARTOF`
-* `SYNONYMS`
-* `ISA`
-* `COMPARE`
+The following types were used to annotate semantic relations: 
 * `CAUSE`
+* `COMPARE`
+* `ISA`
+* `PART_OF`
+* `SYNONYMS`
+* `TOOL`
+* `USAGE`
+
+
+
+
+
