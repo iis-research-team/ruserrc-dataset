@@ -4,6 +4,8 @@ Contains abstracts of 1,680 scientific papers on information technology in Russi
 * 1,600 unlabeled
 * 80 manually labeled.
 
+The dataset is available as a [release](https://github.com/iis-research-team/ruserrc-dataset/releases/tag/v1.0).
+
 ## Entity recognition
 Entity annotation was performed in BIO format. Entities are terms represented by nouns or noun phrases. 
 
