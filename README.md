@@ -27,6 +27,10 @@ See details [here](/russerc_el/).
 
 See details [here](/russerc_el/).
 
+## Aspects
+
+See details [here](/ruserrc_aspects/).
+
 ## Citing
 
 If you use RuSERRC in your research, please cite:
