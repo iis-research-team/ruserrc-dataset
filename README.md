@@ -31,10 +31,17 @@ See details [here](/russerc_el/).
 
 See details [here](/ruserrc_aspects/).
 
-## Citing
+## Citation
 
-If you use RuSERRC in your research, please cite:
+If you find this repository useful, feel free to cite our paper:
 
-**Bruches E., Pauls A., Batura T., Isachenko V.** Entity Recognition and Relation Extraction
-from Scientific and Technical Texts in Russian. _Proceedings of the Science and Artificial
-Intelligence Conference, S.A.I.ence 2020_. 2020. p. 41-45.
+Bruches E., Pauls A., Batura T., Isachenko V. [Entity recognition and relation extraction from scientific and technical texts in Russian](https://arxiv.org/pdf/2011.09817.pdf). Proceedings of 2020 Science and Artificial Intelligence conference (S.A.I.ence). IEEE. 2020. p. 41-45.
+```
+@inproceedings{ruserrc-dataset,
+  title={Entity recognition and relation extraction from scientific and technical texts in Russian},
+  author={Bruches, Elena and Pauls, Alexey and Batura, Tatiana and Isachenko, Vladimir},
+  booktitle={2020 Science and Artificial Intelligence conference (SAI ence)},
+  pages={41--45},
+  year={2020}
+}
+```
