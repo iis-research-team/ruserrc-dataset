@@ -1,0 +1,184 @@
+#,Domain,Filename,Relations
+1,journalism,11_11_9380,
+1,journalism,11_11_9381,
+1,journalism,11_11_9383,ISA(19:27)
+1,journalism,11_11_9385,PART_OF(13:3)
+1,journalism,11_11_9434,
+1,journalism,11_11_9435,
+1,journalism,11_11_9436,ISA(25:27)
+1,journalism,11_11_9437,USAGE(4:9)
+1,journalism,11_11_9438,USAGE(6:3); USAGE(29:32)
+1,journalism,11_11_9439,
+1,journalism,11_11_9440,
+1,journalism,11_11_9441,ISA(8:3); USAGE(17:26)
+1,journalism,11_11_9442,ISA(18:15); ISA(21:15); ISA(23:15); ISA(31:26); ISA(33:26); ISA(35:26); ISA(41:38); ISA(44:38); ISA(47:38)
+1,journalism,11_11_9443,PART_OF(11:9); USAGE(30:63); USAGE(39:63)
+1,journalism,11_11_9444,USAGE(4:13)
+1,journalism,11_11_9445,
+1,journalism,11_11_9446,USAGE(2:7)
+1,journalism,11_11_9447,PART_OF(11:13)
+1,journalism,11_11_9448,
+1,journalism,11_11_9449,ISA(9:7)
+2,math,8_3_1,
+2,math,8_3_2,
+2,math,8_3_3,
+2,math,8_3_4,PART_OF(11:9); PART_OF(37:35)
+2,math,8_3_5,
+2,math,8_3_6,PART_OF(5:7)
+2,math,8_3_7,USAGE(50:44)
+2,math,8_3_8,
+2,math,8_2_1,
+2,math,8_2_2,USAGE(7:10); ISA(38:36); ISA(42:36); ISA(44:36); ISA(46:36)  
+2,math,8_2_3,USAGE(8:4); USAGE(4:14)
+2,math,8_2_4,
+2,math,8_2_5,USAGE(3:10)
+2,math,8_2_6,USAGE(23:21); USAGE(34:21)
+2,math,8_2_7,PART_OF(16:21)
+2,math,8_2_8,PART_OF(2:4); PART_OF(33:35)
+2,math,8_2_9,PART_OF(49:47)
+2,math,8_2_10,
+2,math,8_1_9,PART_OF(107:99); PART_OF(148:141); PART_OF(153:141)
+2,math,8_1_8,
+3,law,2014_10_1_10004,
+3,law,2014_10_1_10008,USAGE(73:76)
+3,law,2014_10_1_10009,ISA(13:10); ISA(16:10); ISA(34:29); ISA(39:29)
+3,law,2014_10_1_10010,ISA(2:8)
+3,law,2014_10_1_10011,ISA(20:26); USAGE(20:33); PART_OF(105:110)
+3,law,2014_10_1_10012,
+3,law,2014_10_1_10013,
+3,law,2014_10_1_10014,
+3,law,2014_10_1_10015,
+3,law,2014_10_1_10016,ISA(51:60); ISA(68:71); ISA(115:104); ISA(118:104); ISA(122:104); USAGE(176:163)
+3,law,2014_10_1_10017,ISA(9:12); ISA(29:32)
+3,law,2014_10_1_10018,
+3,law,2014_10_1_10019,PART_OF(14:1); PART_OF(119:94); PART_OF(124:94); PART_OF(127:94); PART_OF(130:94); PART_OF(138:94); PART_OF(141:94); PART_OF(143:94)
+3,law,2014_10_1_10021,
+3,law,2014_10_1_10022,
+3,law,2014_10_1_10023,USAGE(3:5); USAGE(3:7); PART_OF(8:12); USAGE(47:53); USAGE(47:55); PART_OF(56:60); PART_OF(126:127)
+3,law,2014_10_1_10024,ISA(15:19); USAGE(111:114)
+3,law,2014_10_1_10025,USAGE(65:63)
+3,law,2014_10_1_10026,
+3,law,2014_10_1_10027,USAGE(7:12); USAGE(45:56); ISA(59:56); ISA(63:56); ISA(66:56); USAGE(111:118); USAGE(111:120); USAGE(115:118); USAGE(115:120); USAGE(136:141)
+4,biology_medicine,2005_3_1_7265,
+4,biology_medicine,2005_3_1_7266,
+4,biology_medicine,2005_3_1_7267,
+4,biology_medicine,2005_3_1_7268,
+4,biology_medicine,2005_3_1_7269,USAGE(40:37); USAGE(42:37); USAGE(69:80)
+4,biology_medicine,2005_3_1_7270,USAGE(9:7); USAGE(17:9)
+4,biology_medicine,2005_3_1_7271,
+4,biology_medicine,2005_3_1_7272,ISA(7:3); ISA(18:3); ISA(21:3); USAGE(295:300); USAGE(296:300); USAGE(298:300)
+4,biology_medicine,2005_3_1_7273,PART_OF(100:104); ISA(143:139)
+4,biology_medicine,2005_3_1_7274,
+4,biology_medicine,2012_10_5_5149,PART_OF(2:7)
+4,biology_medicine,2012_10_5_5150,
+4,biology_medicine,2012_10_5_5152,ISA(106:109)
+4,biology_medicine,2012_10_5_5153,
+4,biology_medicine,2012_10_5_5154,PART_OF(4:6)
+4,biology_medicine,2012_10_5_5161,USAGE(61:58)
+4,biology_medicine,2012_10_5_5162,
+4,biology_medicine,2012_10_5_5163,USAGE(74:72); USAGE(87:85)
+4,biology_medicine,2012_10_5_5165,
+4,biology_medicine,2012_10_5_5168,
+5,linguistics,10_1_2354,
+5,linguistics,10_1_2355,PART_OF(4:8)
+5,linguistics,10_1_2356,PART_OF(21:17); USAGE(40:36); USAGE(45:36); USAGE(48:36)
+5,linguistics,10_1_2357,ISA(4:17)
+5,linguistics,10_1_2358,ISA(12:10)
+5,linguistics,10_1_2359,ISA(0:4)
+5,linguistics,10_1_2360,ISA(28:24); ISA(31:24)
+5,linguistics,10_1_2361,ISA(5:9)
+5,linguistics,10_1_2362,USAGE(39:43); USAGE(39:47); USAGE(41:43); USAGE(41:47)
+5,linguistics,10_2_2363,ISA(5:17); USAGE(59:72)
+5,linguistics,10_2_2364,ISA(0:3)
+5,linguistics,10_2_2365,USAGE(8:13); USAGE(71:77)
+5,linguistics,10_2_2366,PART_OF(8:3); PART_OF(12:3); USAGE(34:38)
+5,linguistics,10_2_2367,
+5,linguistics,10_2_2368,
+5,linguistics,10_2_2369,USAGE(16:4); ISA(101:96); USAGE(121:108)
+5,linguistics,10_2_2370,PART_OF(93:97)
+5,linguistics,10_2_2371,
+5,linguistics,10_2_2372,
+5,linguistics,10_2_2373,ISA(0:10); ISA(5:10)
+6,history_philology,21_5_932,ISA(47:43); PART_OF(58:47)
+6,history_philology,21_5_1047,USAGE(96:106)
+6,history_philology,21_5_1048,PART_OF(30:55)
+6,history_philology,21_5_1049,
+6,history_philology,21_5_1050,ISA(32:29); ISA(49:29); ISA(60:29); ISA(64:29)
+6,history_philology,21_6_1067,
+6,history_philology,21_6_1068,ISA(80:84)
+6,history_philology,21_7_757,
+6,history_philology,21_7_910,ISA(100:110)
+6,history_philology,21_7_1031,
+6,history_philology,21_7_1098,
+6,history_philology,21_7_1142,ISA(86:94)
+6,history_philology,21_7_1143,PART_OF(0:22); PART_OF(44:39); PART_OF(47:39)
+6,history_philology,21_7_1145,USAGE(126:121)
+6,history_philology,21_7_1146,ISA(175:179)
+6,history_philology,21_7_1147,ISA(45:40)
+6,history_philology,21_7_1148,USAGE(27:23); ISA(45:42); USAGE(47:45); ISA(52:42); ISA(59:42)
+6,history_philology,21_7_1149,
+6,history_philology,21_7_1150,PART_OF(122:126)
+6,history_philology,21_7_1152,
+7,pedagogy,2012_13_1_3133,USAGE(52:57); USAGE(55:57); USAGE(52:61); USAGE(55:61); USAGE(52:65); USAGE(55:65)
+7,pedagogy,2012_13_1_3134,
+7,pedagogy,2012_13_1_3135,
+7,pedagogy,2012_13_1_3136,
+7,pedagogy,2012_13_1_3137,
+7,pedagogy,2012_13_1_3138,
+7,pedagogy,2012_13_1_3139,
+7,pedagogy,2012_13_1_3140,USAGE(5:12)
+7,pedagogy,2012_13_1_3141,
+7,pedagogy,2012_13_1_3143,ISA(9:12); USAGE(36:40)
+7,pedagogy,2012_13_2_3146,USAGE(44:52); USAGE(44:56)
+7,pedagogy,2012_13_2_3147,
+7,pedagogy,2012_13_2_3150,
+7,pedagogy,2012_13_2_3151,USAGE(36:32)
+7,pedagogy,2012_13_2_3152,
+7,pedagogy,2012_13_2_3154,USAGE(11:3); PART_OF(18:11); PART_OF(23:11); PART_OF(27:11); ISA(37:39); USAGE(37:43)
+7,pedagogy,2012_13_2_3155,ISA(15:21); USAGE(26:28)
+7,pedagogy,2012_13_2_3156,
+7,pedagogy,2012_13_2_3157,
+7,pedagogy,2012_13_2_3160,USAGE(28:36); USAGE(32:36)
+8,physics,17_2_0,
+8,physics,17_2_1,PART_OF(80:82); USAGE(97:103); PART_OF(158:160); ISA(232:235)
+8,physics,17_2_2,USAGE(49:45); USAGE(53:45); PART_OF(67:69)
+8,physics,17_2_3,
+8,physics,17_2_4,ISA(15:11)
+8,physics,17_2_5,ISA(49:41); USAGE(126:121); USAGE(143:140); PART_OF(165:167); PART_OF(165:169)
+8,physics,17_2_6,
+8,physics,17_2_7,
+8,physics,17_2_8,
+8,physics,17_2_9,
+8,physics,17_2_10,PART_OF(77:79); PART_OF(89:79); USAGE(146:141)
+8,physics,17_2_11,USAGE(3:7)
+8,physics,17_2_12,ISA(35:30)
+8,physics,17_2_13,
+8,physics,17_2_14,
+8,physics,17_2_15,USAGE(4:25); USAGE(25:27); ISA(57:47); USAGE(141:143)
+8,physics,17_2_16,
+8,physics,17_2_17,
+8,physics,17_2_18,USAGE(122:126); USAGE(126:133)
+8,physics,17_2_19,
+8,physics,17_2_20,
+8,physics,17_2_21,
+8,physics,17_2_22,
+9,psychology,2012_6_2_1961,PART_OF(36:32); PART_OF(38:32); PART_OF(40:32)
+9,psychology,2012_6_2_1964,ISA(3:10)
+9,psychology,2012_6_2_1967,
+9,psychology,2012_6_2_1968,
+9,psychology,2012_6_2_3316,
+9,psychology,2012_6_2_3318,
+9,psychology,2012_6_2_3320,USAGE(3:8)
+9,psychology,2012_6_2_3321,
+9,psychology,2012_6_2_3322,
+9,psychology,2012_6_2_3323,USAGE(6:2)
+9,psychology,2012_6_2_3324,ISA(52:43); ISA(91:43); ISA(94:43)
+9,psychology,2012_6_2_3325,ISA(19:15); ISA(23:15); ISA(27:15); PART_OF(34:37)
+9,psychology,2012_6_2_3326,
+9,psychology,2012_6_2_3327,
+9,psychology,2012_6_2_3363,
+9,psychology,2012_6_2_3364,
+9,psychology,2012_6_2_3365,
+9,psychology,2012_6_2_3366,ISA(24:19)
+9,psychology,2012_6_2_3367,ISA(7:9)
+9,psychology,2012_6_2_3368,
