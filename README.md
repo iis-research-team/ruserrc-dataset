@@ -6,6 +6,10 @@ Contains abstracts of 1,680 scientific papers on information technology in Russi
 
 The dataset is available as a [release](https://github.com/iis-research-team/ruserrc-dataset/releases/tag/v1.0).
 
+## ⭐️ Cross-domain RuSERRC
+
+See details [here](/cross-domain-ruserrc/).
+
 ## Entity recognition
 Entity annotation was performed in BIO format. Entities are terms represented by nouns or noun phrases. 
 
